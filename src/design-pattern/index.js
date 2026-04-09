@@ -23,8 +23,3 @@
 // import './command-pattern'
 // import './memento-pattern'
 // import './mediator-pattern'
-
-// ------------实战----------
-// import App from './demo/App'
-// let app = new App('app')
-// app.init()
